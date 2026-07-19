@@ -1,0 +1,5 @@
+sim
+sim_*
+obj_dir/
+*.vcd
+*.out
