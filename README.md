@@ -68,4 +68,3 @@ M. Langhammer, B. Pasca, I. Kucherenko, "Multiplier Architecture with a Carry-Ba
 ## Related
 
 - [booth-radix4-multiplier](https://github.com/kiankhooban/booth-radix4-multiplier): matched standard Booth radix-4 baseline
-- [booth-encoder-radix2](https://github.com/kiankhooban/booth-encoder-radix2): my earlier radix-2 Booth encoder
